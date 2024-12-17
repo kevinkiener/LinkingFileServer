@@ -21,7 +21,6 @@ The other option is to use the gui that opens with "Convert Path".
 <p align="left">
   <img src="https://github.com/user-attachments/assets/a7d3cb00-fc4a-44de-81dd-38bdc10f84c4">
 </p>
-![image](https://github.com/user-attachments/assets/a7d3cb00-fc4a-44de-81dd-38bdc10f84c4)
 This opens the window where you can convert it and see the new path immediately.
 
 
