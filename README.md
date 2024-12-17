@@ -4,6 +4,9 @@ The default url for accessing your files will look something like http://localho
 ## Features
 ### Default Path
 In the tool the default path has to be set and can be changed via the gui or the config.json file.
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/088fdbf0-9c68-4142-9ac4-b1ae6fba45d1">
+</p>
 <p style="text-align: center"><img src="[https://files.document360.io/filename/folder/subfolder/imagename.png](https://github.com/user-attachments/assets/088fdbf0-9c68-4142-9ac4-b1ae6fba45d1)"></p>
 
 ![image](https://github.com/user-attachments/assets/088fdbf0-9c68-4142-9ac4-b1ae6fba45d1)
